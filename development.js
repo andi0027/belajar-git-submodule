@@ -1,0 +1,3 @@
+function isDevelopment() {
+  return true;
+}
